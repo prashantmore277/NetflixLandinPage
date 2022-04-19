@@ -256,6 +256,11 @@ img {
     line-height: 1.9;
 }
 
+.heart {
+    /* color: red; */
+    text-align: center;
+}
+
 
 /* Container */
 
